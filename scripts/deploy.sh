@@ -1,0 +1,2 @@
+echo "Deployment script running..
+." 
